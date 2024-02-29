@@ -30,4 +30,5 @@ clean:
 	rm -rf results
 	rm -rf docs/qmd_example.html \
 		docs/qmd_example.pdf \
-		docs/qmd_example_files
+		docs/qmd_example_files \
+		docs/index.html
